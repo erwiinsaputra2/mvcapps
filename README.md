@@ -1,6 +1,8 @@
 # mvcapps
 
-A new Flutter project.
+Assignment TK
+
+Run main.dart 
 
 ## Getting Started
 
